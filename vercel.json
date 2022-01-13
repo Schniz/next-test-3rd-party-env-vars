@@ -1,6 +1,6 @@
 {
   "env": {
-    "ENV1": "env1",
-    "ENV2": "env2"
+    "ENV1": "vercel.json provides: env1",
+    "ENV2": "vercel.json provides: env2"
   }
 }
